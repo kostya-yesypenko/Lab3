@@ -1,0 +1,18 @@
+{
+  "event": {
+    "bought_tickets": {
+      "4f82cf9d-43d1-11ec-8e85-70c94ef7cebc": {
+        "name": "Kostia",
+        "surname": "Yesypenko",
+        "price": 50,
+        "purchase_date": "2022-13-12 17:58:00.312077"
+      },
+      "4f876069-43d1-11ec-9548-70c94ef7cebc": {
+        "name": "Ivan",
+        "surname": "Sydorov",
+        "price": 60,
+        "purchase_date": "2022-13-12 17:58:00.322562"
+      }
+    }
+  }
+}
