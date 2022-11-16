@@ -74,4 +74,4 @@ p3 = Pizza('Cheese', 'Mushrooms')
 print(p1)
 print(p2)
 print(p3)
-f'Price of 3 pizza is', p3.get_price()
+
